@@ -5,3 +5,6 @@
 5. Use the distance to find the real distance from the light to the car
 6. Orientate the graph so that it starts at (0, y) and the light is at the origin (I had a hard time)
 7. Display the distance on a graph.
+
+
+I didn't add data because it should be available.
