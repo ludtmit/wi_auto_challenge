@@ -8,3 +8,12 @@
 
 
 I didn't add data because it should be available.
+
+
+Perception is my main file I did the reading of the data in it.
+
+Plot is just there to plot the graph.
+
+Testnpz was for testing npz files because I have never used them before.
+
+Visualization was for looking at the pictures to see if I was doing it right.
